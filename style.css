@@ -25,14 +25,14 @@ header h1 {
     font-size: 100px;
     margin-bottom: 10px;
     font-family: 'Times New Roman', Times, serif;
-    color: #36f7f7; /* Light Pink Title */
+    color: #7ADAA5; /* Light green Title */
 }
 
 header h4 {
     font-size: 18px;
     font-weight: normal;
     font-style: italic;
-    color: #cad663; /* Soft Yellow-Green Tagline */
+    color: #bdca4a; /* Soft Yellow-Green Tagline */
 }
 
 /* Navigation */
